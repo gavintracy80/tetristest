@@ -3,7 +3,7 @@ import random
 import time
 
 wn = turtle.Screen()
-wn.title("Tetris by Gavin")
+wn.title("Tetris by Gav")
 wn.bgcolor("navy")
 wn.setup(width=450, height=650)
 wn.tracer(0)
